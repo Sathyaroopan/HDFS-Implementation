@@ -1,0 +1,57 @@
+[Node 3] 2026/03/06 15:17:54 Node started on 10.253.4.238:5003
+[Node 3] 2026/03/06 15:17:57 Connection attempt 1 to Node 2 (10.253.4.135:5002) failed: dial tcp 10.253.4.135:5002: i/o timeout
+[Node 3] 2026/03/06 15:17:57 Connection attempt 1 to Node 4 (10.253.4.226:5004) failed: dial tcp 10.253.4.226:5004: i/o timeout
+[Node 3] 2026/03/06 15:17:57 Connection attempt 1 to Node 1 (10.253.4.56:5001) failed: dial tcp 10.253.4.56:5001: i/o timeout
+[Node 3] 2026/03/06 15:17:57 HDFS state initialized (NameNode: false)
+[Node 3] 2026/03/06 15:18:01 Connection attempt 2 to Node 1 (10.253.4.56:5001) failed: dial tcp 10.253.4.56:5001: i/o timeout
+[Node 3] 2026/03/06 15:18:01 Connection attempt 2 to Node 4 (10.253.4.226:5004) failed: dial tcp 10.253.4.226:5004: i/o timeout
+[Node 3] 2026/03/06 15:18:01 Connection attempt 2 to Node 2 (10.253.4.135:5002) failed: dial tcp 10.253.4.135:5002: i/o timeout
+[Node 3] 2026/03/06 15:18:02 Failed to send heartbeat to NameNode: node 1 not connected
+[Node 3] 2026/03/06 15:18:05 Snapshot 1 initiated, local state: counter=0
+[Node 3] 2026/03/06 15:18:05 Connection attempt 3 to Node 1 (10.253.4.56:5001) failed: dial tcp 10.253.4.56:5001: i/o timeout
+[Node 3] 2026/03/06 15:18:05 Connection attempt 3 to Node 4 (10.253.4.226:5004) failed: dial tcp 10.253.4.226:5004: i/o timeout
+[Node 3] 2026/03/06 15:18:05 Connection attempt 3 to Node 2 (10.253.4.135:5002) failed: dial tcp 10.253.4.135:5002: i/o timeout
+[Node 3] 2026/03/06 15:18:07 Failed to send heartbeat to NameNode: node 1 not connected
+[Node 3] 2026/03/06 15:18:09 Connection attempt 4 to Node 2 (10.253.4.135:5002) failed: dial tcp 10.253.4.135:5002: i/o timeout
+[Node 3] 2026/03/06 15:18:09 Connection attempt 4 to Node 1 (10.253.4.56:5001) failed: dial tcp 10.253.4.56:5001: i/o timeout
+[Node 3] 2026/03/06 15:18:09 Connection attempt 4 to Node 4 (10.253.4.226:5004) failed: dial tcp 10.253.4.226:5004: i/o timeout
+[Node 3] 2026/03/06 15:18:12 Failed to send heartbeat to NameNode: node 1 not connected
+[Node 3] 2026/03/06 15:18:13 Connection attempt 5 to Node 1 (10.253.4.56:5001) failed: dial tcp 10.253.4.56:5001: i/o timeout
+[Node 3] 2026/03/06 15:18:13 Connection attempt 5 to Node 4 (10.253.4.226:5004) failed: dial tcp 10.253.4.226:5004: i/o timeout
+[Node 3] 2026/03/06 15:18:13 Connection attempt 5 to Node 2 (10.253.4.135:5002) failed: dial tcp 10.253.4.135:5002: i/o timeout
+[Node 3] 2026/03/06 15:18:17 Failed to send heartbeat to NameNode: node 1 not connected
+[Node 3] 2026/03/06 15:18:17 Connection attempt 6 to Node 4 (10.253.4.226:5004) failed: dial tcp 10.253.4.226:5004: i/o timeout
+[Node 3] 2026/03/06 15:18:17 Connection attempt 6 to Node 2 (10.253.4.135:5002) failed: dial tcp 10.253.4.135:5002: i/o timeout
+[Node 3] 2026/03/06 15:18:17 Connection attempt 6 to Node 1 (10.253.4.56:5001) failed: dial tcp 10.253.4.56:5001: i/o timeout
+[Node 3] 2026/03/06 15:18:21 Connection attempt 7 to Node 2 (10.253.4.135:5002) failed: dial tcp 10.253.4.135:5002: i/o timeout
+[Node 3] 2026/03/06 15:18:21 Connection attempt 7 to Node 1 (10.253.4.56:5001) failed: dial tcp 10.253.4.56:5001: i/o timeout
+[Node 3] 2026/03/06 15:18:21 Connection attempt 7 to Node 4 (10.253.4.226:5004) failed: dial tcp 10.253.4.226:5004: i/o timeout
+[Node 3] 2026/03/06 15:18:22 Failed to send heartbeat to NameNode: node 1 not connected
+[Node 3] 2026/03/06 15:18:25 Connection attempt 8 to Node 4 (10.253.4.226:5004) failed: dial tcp 10.253.4.226:5004: i/o timeout
+[Node 3] 2026/03/06 15:18:25 Connection attempt 8 to Node 1 (10.253.4.56:5001) failed: dial tcp 10.253.4.56:5001: i/o timeout
+[Node 3] 2026/03/06 15:18:25 Connection attempt 8 to Node 2 (10.253.4.135:5002) failed: dial tcp 10.253.4.135:5002: i/o timeout
+[Node 3] 2026/03/06 15:18:27 Starting leader election
+[Node 3] 2026/03/06 15:18:27 Sending ELECTION to Node 4
+[Node 3] 2026/03/06 15:18:27 Failed to send ELECTION to Node 4: node 4 not connected
+[Node 3] 2026/03/06 15:18:27 Failed to send heartbeat to NameNode: node 1 not connected
+[Node 3] 2026/03/06 15:18:29 Connection attempt 9 to Node 2 (10.253.4.135:5002) failed: dial tcp 10.253.4.135:5002: i/o timeout
+[Node 3] 2026/03/06 15:18:29 Connection attempt 9 to Node 4 (10.253.4.226:5004) failed: dial tcp 10.253.4.226:5004: i/o timeout
+[Node 3] 2026/03/06 15:18:29 Connection attempt 9 to Node 1 (10.253.4.56:5001) failed: dial tcp 10.253.4.56:5001: i/o timeout
+[Node 3] 2026/03/06 15:18:30 No ANSWER received, declaring self as leader
+[Node 3] 2026/03/06 15:18:30 Declared self as leader
+[Node 3] 2026/03/06 15:18:30 Broadcast COORDINATOR to all nodes
+[Node 3] 2026/03/06 15:18:32 Failed to send heartbeat to NameNode: node 1 not connected
+[Node 3] 2026/03/06 15:18:33 Connection attempt 10 to Node 4 (10.253.4.226:5004) failed: dial tcp 10.253.4.226:5004: i/o timeout
+[Node 3] 2026/03/06 15:18:33 Connection attempt 10 to Node 2 (10.253.4.135:5002) failed: dial tcp 10.253.4.135:5002: i/o timeout
+[Node 3] 2026/03/06 15:18:33 Connection attempt 10 to Node 1 (10.253.4.56:5001) failed: dial tcp 10.253.4.56:5001: i/o timeout
+[Node 3] 2026/03/06 15:18:35 Failed to connect to Node 2 after retries
+[Node 3] 2026/03/06 15:18:35 Failed to connect to Node 4 after retries
+[Node 3] 2026/03/06 15:18:35 Failed to connect to Node 1 after retries
+[Node 3] 2026/03/06 15:18:37 Failed to send heartbeat to NameNode: node 1 not connected
+[Node 3] 2026/03/06 15:18:42 Failed to send heartbeat to NameNode: node 1 not connected
+[Node 3] 2026/03/06 15:18:47 Failed to send heartbeat to NameNode: node 1 not connected
+[Node 3] 2026/03/06 15:18:52 PUT file: README.md, size: 4132, blocks: 17
+[Node 3] 2026/03/06 15:18:52 Failed to send heartbeat to NameNode: node 1 not connected
+[Node 3] 2026/03/06 15:18:57 Failed to send heartbeat to NameNode: node 1 not connected
+[Node 3] 2026/03/06 15:19:02 Failed to send heartbeat to NameNode: node 1 not connected
+[Node 3] 2026/03/06 15:19:07 Failed to send heartbeat to NameNode: node 1 not connected

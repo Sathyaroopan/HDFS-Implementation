@@ -1,0 +1,71 @@
+[Node 2] 2026/03/06 15:05:59 Node started on 127.0.0.1:5002
+[Node 2] 2026/03/06 15:06:00 Connection attempt 1 to Node 3 (127.0.0.1:5003) failed: dial tcp 127.0.0.1:5003: connectex: No connection could be made because the target machine actively refused it.
+[Node 2] 2026/03/06 15:06:00 Connection attempt 1 to Node 4 (127.0.0.1:5004) failed: dial tcp 127.0.0.1:5004: connectex: No connection could be made because the target machine actively refused it.
+[Node 2] 2026/03/06 15:06:00 Connected to Node 1 at 127.0.0.1:5001
+[Node 2] 2026/03/06 15:06:02 HDFS state initialized (NameNode: false)
+[Node 2] 2026/03/06 15:06:02 Connection attempt 2 to Node 3 (127.0.0.1:5003) failed: dial tcp 127.0.0.1:5003: connectex: No connection could be made because the target machine actively refused it.
+[Node 2] 2026/03/06 15:06:02 Connection attempt 2 to Node 4 (127.0.0.1:5004) failed: dial tcp 127.0.0.1:5004: connectex: No connection could be made because the target machine actively refused it.
+[Node 2] 2026/03/06 15:06:04 Connection attempt 3 to Node 3 (127.0.0.1:5003) failed: dial tcp 127.0.0.1:5003: connectex: No connection could be made because the target machine actively refused it.
+[Node 2] 2026/03/06 15:06:04 Connection attempt 3 to Node 4 (127.0.0.1:5004) failed: dial tcp 127.0.0.1:5004: connectex: No connection could be made because the target machine actively refused it.
+[Node 2] 2026/03/06 15:06:06 Connection attempt 4 to Node 4 (127.0.0.1:5004) failed: dial tcp 127.0.0.1:5004: connectex: No connection could be made because the target machine actively refused it.
+[Node 2] 2026/03/06 15:06:06 Connection attempt 4 to Node 3 (127.0.0.1:5003) failed: dial tcp 127.0.0.1:5003: connectex: No connection could be made because the target machine actively refused it.
+[Node 2] 2026/03/06 15:06:07 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:06:08 Connection attempt 5 to Node 4 (127.0.0.1:5004) failed: dial tcp 127.0.0.1:5004: connectex: No connection could be made because the target machine actively refused it.
+[Node 2] 2026/03/06 15:06:08 Connection attempt 5 to Node 3 (127.0.0.1:5003) failed: dial tcp 127.0.0.1:5003: connectex: No connection could be made because the target machine actively refused it.
+[Node 2] 2026/03/06 15:06:09 Accepted connection from Node 3
+[Node 2] 2026/03/06 15:06:10 Connection attempt 6 to Node 4 (127.0.0.1:5004) failed: dial tcp 127.0.0.1:5004: connectex: No connection could be made because the target machine actively refused it.
+[Node 2] 2026/03/06 15:06:10 Connected to Node 3 at 127.0.0.1:5003
+[Node 2] 2026/03/06 15:06:12 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:06:12 Connection attempt 7 to Node 4 (127.0.0.1:5004) failed: dial tcp 127.0.0.1:5004: connectex: No connection could be made because the target machine actively refused it.
+[Node 2] 2026/03/06 15:06:14 Connection attempt 8 to Node 4 (127.0.0.1:5004) failed: dial tcp 127.0.0.1:5004: connectex: No connection could be made because the target machine actively refused it.
+[Node 2] 2026/03/06 15:06:16 Connection attempt 9 to Node 4 (127.0.0.1:5004) failed: dial tcp 127.0.0.1:5004: connectex: No connection could be made because the target machine actively refused it.
+[Node 2] 2026/03/06 15:06:17 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:06:18 Connection attempt 10 to Node 4 (127.0.0.1:5004) failed: dial tcp 127.0.0.1:5004: connectex: No connection could be made because the target machine actively refused it.
+[Node 2] 2026/03/06 15:06:20 Failed to connect to Node 4 after retries
+[Node 2] 2026/03/06 15:06:21 Accepted connection from Node 4
+[Node 2] 2026/03/06 15:06:22 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:06:27 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:06:32 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:06:37 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:06:42 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:06:47 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:06:52 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:06:57 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:07:02 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:07:07 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:07:12 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:07:17 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:07:22 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:07:25 Received HDFS_BLOCK_STORE from Node 1
+[Node 2] 2026/03/06 15:07:25 Stored block testfile.txt_block_0, 256 bytes from Node 1
+[Node 2] 2026/03/06 15:07:25 Received HDFS_BLOCK_STORE from Node 1
+[Node 2] 2026/03/06 15:07:25 Stored block testfile.txt_block_1, 256 bytes from Node 1
+[Node 2] 2026/03/06 15:07:25 Received HDFS_BLOCK_STORE from Node 1
+[Node 2] 2026/03/06 15:07:25 Stored block testfile.txt_block_2, 31 bytes from Node 1
+[Node 2] 2026/03/06 15:07:27 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:07:32 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:07:37 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:07:42 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:07:47 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:07:52 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:07:57 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:08:02 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:08:07 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:08:12 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:08:17 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:08:22 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:08:27 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:08:32 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:08:37 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:08:42 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:08:47 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:08:47 GET file: testfile.txt -> output.txt
+[Node 2] 2026/03/06 15:08:47 Received HDFS_GET_RESP from Node 1
+[Node 2] 2026/03/06 15:08:47 GET complete: output.txt, 543 bytes
+[Node 2] 2026/03/06 15:08:52 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:08:57 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:09:02 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:09:07 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:09:12 Received HDFS_HEARTBEAT_ACK from Node 1
+[Node 2] 2026/03/06 15:09:17 Connection to Node 1 closed
+[Node 2] 2026/03/06 15:09:17 Failed to send heartbeat to NameNode: write tcp 127.0.0.1:63919->127.0.0.1:5001: wsasend: An existing connection was forcibly closed by the remote host.
